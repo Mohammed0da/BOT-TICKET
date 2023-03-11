@@ -1,7 +1,7 @@
 {
-  "name": "tickets-bot",
+  "name": "BOT-TICKET",
   "version": "1.0.1",
-  "description": "Bot By Shuruhatik",
+  "description": "Bot By Mr.Tom",
   "type": "module",
   "dependencies": {
     "eris": "^0.17.1",
